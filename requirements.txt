@@ -1,0 +1,16 @@
+jupyter
+jupyterlab
+ipykernel
+ipywidgets
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+tensorflow
+scikit-optimize
+torch
+torchvision
+torchaudio
